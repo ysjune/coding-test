@@ -32,5 +32,5 @@ mislav는 참여자 명단에는 두 명이 있지만, 완주자 명단에는 �
 
 ##### 풀이
 
-[solution](/solution.md)
+[solution](/완주하지못한선수/solution.md)
 
